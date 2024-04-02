@@ -1,0 +1,10 @@
+.main-menu a:hover{
+    background-color: green;
+    color: white!important;
+}
+
+.card-pro{
+    width: 100px;
+    height: 100px;
+
+}
